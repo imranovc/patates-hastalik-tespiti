@@ -44,13 +44,7 @@ Cross-validation skorları
 
 Train vs Test doğruluk analizlerini çizerek modellerin karşılaştırmasını görselleştirir.
 
-Projeyi çalıştırmak için:
 
-bash
-Kopyala
-Düzenle
-python main.py
-python grafik.py
 📊 Kullanılan Sınıflandırıcılar
 Algoritma	Başarı (Accuracy)	Açıklama
 Random Forest	~97-99%	En yüksek doğruluğu sağlar, güçlü genelleme
@@ -83,8 +77,6 @@ Scikit-learn, Scikit-image Documentation
 
 👩‍💻 Geliştirici
 İmran Ovacı
-Çankırı Karatekin Üniversitesi
-Bilgisayar Mühendisliği
 📧 imran.ovc@hotmail.com
 
 ⚠️ Not
