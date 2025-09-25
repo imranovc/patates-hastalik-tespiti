@@ -77,7 +77,7 @@ Scikit-learn, Scikit-image Documentation
 
 👩‍💻 Geliştirici
 İmran Ovacı
-📧 imran.ovc@hotmail.com
+📧 imran.ovc@gmail.com
 
 ⚠️ Not
 Bu proje, bitki hastalıklarının erken teşhisi ile tarımsal üretimde verimliliği artırmak amacıyla geliştirilmiştir. Eğitim amaçlı kullanılabilir.
